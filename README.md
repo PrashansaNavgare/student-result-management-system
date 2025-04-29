@@ -60,9 +60,8 @@ student-result-management-system/
 
 ## ✨ Screenshots
 
-> Add screenshots here for better visibility of the UI and features.
+![image](https://github.com/user-attachments/assets/ac2301db-9beb-4507-9087-d25bac1a9cb2)
 
----
 
 ## 🧩 Future Improvements
 
