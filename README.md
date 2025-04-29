@@ -59,8 +59,16 @@ student-result-management-system/
 ---
 
 ## ✨ Screenshots
-
+Login Page:-
+![image](https://github.com/user-attachments/assets/0da73a82-5533-4b19-811e-3f9c0cb6be0c)
+Dashboard:-
 ![image](https://github.com/user-attachments/assets/ac2301db-9beb-4507-9087-d25bac1a9cb2)
+Add Student Form:-
+![image](https://github.com/user-attachments/assets/4aacbb0a-afa8-443f-a9dc-64a25dc63c61)
+Enter Marks Page:-
+![image](https://github.com/user-attachments/assets/00e4de86-fb05-42c9-957d-bce68330f032)
+View Result Page:-
+![image](https://github.com/user-attachments/assets/d293475a-dc71-4881-baf8-36b2b221a16b)
 
 
 ## 🧩 Future Improvements
