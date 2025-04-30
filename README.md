@@ -88,7 +88,6 @@ View Result Page:-
 ## 👩‍💻 Author
 
 **Prashansa Navgare**  
-📧 Email: navgareprashansa@gmail.com  
 🌐 GitHub: [PrashansaNavgare](https://github.com/PrashansaNavgare)
 
 ---
